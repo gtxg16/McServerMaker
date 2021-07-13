@@ -11,4 +11,5 @@ Easy.
 
 **Known issues:**
 ~~Snapshots don't work, at least on my pc.~~
+
 Java 16 is required for 1.17+ versions.
